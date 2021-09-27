@@ -1,6 +1,7 @@
 - 👋 Olá, me chamo Vanessa.
 - 👀 Tenho interresse em tecnologias...
 - 🌱 Atualmente estou estudando programação, Javscript, CSS e HTML.
+- 📚 Bacharel em Administração e Pós graduada em Administração Finceira.
 - 💞️Estou procurando oportunidade de emprego de Desenvolvedor Front-end Jr.
 - 📫 https://www.linkedin.com/in/vanessa-machado-31a538128/
 - 📫 machado.vanessa32@gmail.com
