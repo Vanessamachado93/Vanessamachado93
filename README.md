@@ -18,6 +18,8 @@ stats](https://github-readme-stats.vercel.app/api?username=Vanessamachado93&show
     <img align="center" alt="css3"
         src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Curiosa e encantada pela tecnologia, sou Bacharel em Administração, pós graduada em Gestão Financeira. Sou do RS e tenho
 28 anos.
