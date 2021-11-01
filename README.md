@@ -3,7 +3,7 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-machado-31a538128/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanessamachadooh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](machado.vanessa32@gmail.com)
-[![Whatsapp](http://www.linkwhatsapp.com/JeWuG6gR2udZZejDT7Gl)](+5551997776960)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://www.linkwhatsapp.com/JeWuG6gR2udZZejDT7Gl)
 
 ![Vanessa Machado GitHub
 stats](https://github-readme-stats.vercel.app/api?username=Vanessamachado93&show_icons=true&theme=dracula)
