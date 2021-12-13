@@ -22,4 +22,5 @@ stats](https://github-readme-stats.vercel.app/api?username=Vanessamachado93&show
 Curiosa e encantada pela tecnologia, sou aluna da Alura. 
 Bacharel em Administração, pós graduada em Gestão Financeira. 
 Tenho 28 anos e sou do RS.
+Estou em busca de uma oportunidade de emprego no Front.
 
