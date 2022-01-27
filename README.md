@@ -4,7 +4,7 @@ Bacharel em Administração, pós graduada em Gestão Financeira.
 Tenho 29 anos e sou do RS.
 Estou em busca de uma oportunidade de emprego no Front.
 
- ![Snake animation](https://github.com/Vanessamachado93/Vanessamachado93/blod/output/github-contribution-grid-snake.svg) 
+ [![Snake animation](https://github.com/Vanessamachado93/Vanessamachado93/blod/output/github-contribution-grid-snake.svg) 
 
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-machado-31a538128/)
