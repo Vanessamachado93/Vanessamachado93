@@ -24,8 +24,3 @@ stats](https://github-readme-stats.vercel.app/api?username=Vanessamachado93&show
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessamachado93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Curiosa e encantada pela tecnologia, sou aluna da Alura. 
-Bacharel em Administração, pós graduada em Gestão Financeira. 
-Tenho 28 anos e sou do RS.
-Estou em busca de uma oportunidade de emprego no Front.
-
