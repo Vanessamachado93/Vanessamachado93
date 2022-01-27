@@ -21,7 +21,7 @@ stats](https://github-readme-stats.vercel.app/api?username=Vanessamachado93&show
     <img align="center" alt="react"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  </div><br/>
  
-![Snale animation](https://github.com/Vanessamachado93/Vanessamachado93/blod/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Vanessamachado93/Vanessamachado93/blod/output/github-contribution-grid-snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessamachado93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
