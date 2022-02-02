@@ -7,7 +7,8 @@
    <div align="between">
     <a href="https://github.com/Vanessamachado93">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanessamachado93&theme=dark&show_icons=true&icon_color=6A7CE2&locale=pt-br" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langsusername=Vanessamachado93&repo=convoychat&theme=dark&show_icons=true&layout=compact&locale=pt-br"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessamachado93&repo=convoychat&theme=dark&show_icons=true&layout=compact&locale=pt-br"/>
+
     </a>
   </div>
 
