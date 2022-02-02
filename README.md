@@ -1,4 +1,4 @@
-## Oiii eu sou a Vanessa Machado, sou Bacharel em Adm, com pós em Adm financeira. Estudande de Desenvolvimento Web com a Alura.
+## Olá.. eu sou a Vanessa Machado, estudo Desenvolvimento Web com a Alura.
 <div align="center">
   <a href="https://github.com/vanessamachado93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessamachado93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
