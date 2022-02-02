@@ -10,9 +10,7 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessamachado93&repo=convoychat&theme=dracula_icons=true&layout=compact&locale=pt-br"/></a>
   </div>
 
-    <div align="center">
-    <h1>Minhas redes...</h1>
-    </div>
+    <div align="center"<h1>Minhas redes</h1></div>
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-machado-31a538128/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanessamachadooh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](machado.vanessa32@gmail.com)
