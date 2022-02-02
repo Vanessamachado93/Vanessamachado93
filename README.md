@@ -7,9 +7,7 @@
    <div align="between">
     <a href="https://github.com/Vanessamachado93">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanessamachado93&theme=dracula_icons=true&icon_color=6A7CE2&locale=pt-br" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessamachado93&repo=convoychat&theme=dracula_icons=true&layout=compact&locale=pt-br"/>
-
-    </a>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessamachado93&repo=convoychat&theme=dracula_icons=true&layout=compact&locale=pt-br"/></a>
   </div>
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-machado-31a538128/)
@@ -17,10 +15,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](machado.vanessa32@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551997776960)
 
-![Vanessa Machado GitHub
-stats](https://github-readme-stats.vercel.app/api?username=Vanessamachado93&show_icons=true&theme=dracula)
-
-## Tecnologias que eu estou estudando.
+    <h1>Tecnologias que eu estou estudando</h1>
 
 <div style="display: inline_block"><br />
     <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
