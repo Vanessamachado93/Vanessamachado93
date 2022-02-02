@@ -6,15 +6,11 @@
     Estou em busca de uma oportunidade de emprego no Front.</p>
    <div align="between">
     <a href="https://github.com/Vanessamachado93">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanessamachado93&theme=dark&show_icons=true&icon_color=6A7CE2&locale=pt-br" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessamachado93&repo=convoychat&theme=dark&show_icons=true&layout=compact&locale=pt-br"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanessamachado93&theme=dracula_icons=true&icon_color=6A7CE2&locale=pt-br" />
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessamachado93&repo=convoychat&theme=dracula_icons=true&layout=compact&locale=pt-br"/>
 
     </a>
   </div>
-
-
-
-
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-machado-31a538128/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanessamachadooh/)
