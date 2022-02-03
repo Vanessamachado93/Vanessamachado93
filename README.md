@@ -1,5 +1,5 @@
 ## Olá.. eu sou a Vanessa Machado, estudo Desenvolvimento Web com a Alura.
-<div align="center">
+<div >
   <a href="https://github.com/vanessamachado93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessamachado93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessamachado93&layout=compact&langs_count=7&theme=dracula"/>
