@@ -1,11 +1,11 @@
-## Olá.. eu sou a Vanessa Machado😎,</br>
+
+<section align="center"
+
+## Olá.. eu sou a  <strong>Vanessa Machado</strong>😎,</br>
 Estou estudando Desenvolvimento Web 📚</br>
-para trabalhar como desenvolvedora frontend💻👩‍💻.</br>
-## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
-  <a href="https://github.com/vanessamachado93">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessamachado93&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanessamachado93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+para trabalhar como desenvolvedora frontend💻👩‍💻,</br>
+
+
   
   ## 🛠 &nbsp;Tech Stack
 
@@ -19,6 +19,12 @@ para trabalhar como desenvolvedora frontend💻👩‍💻.</br>
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   
   ##
+ ## ⚙️ &nbsp;GitHub Analytics
+<div align="#">
+  <a href="https://github.com/vanessamachado93">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessamachado93&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanessamachado93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
  
 <div> 
   <a href="https://instagram.com/vanessamachadooh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,7 +35,7 @@ para trabalhar como desenvolvedora frontend💻👩‍💻.</br>
   ![Snake animation](https://github.com/Vanessamachado93/Vanessamachado93/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
+    </section>
   
 
 
