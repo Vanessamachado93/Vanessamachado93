@@ -1,17 +1,22 @@
-## Olá.. eu sou a Vanessa Machado, estudo Desenvolvimento Web para trabalhar como desenvolvedora frontend.
+## Olá.. eu sou a Vanessa Machado😎,</br>
+Estou estudando Desenvolvimento Web 📚</br>
+para trabalhar como desenvolvedora frontend💻👩‍💻.</br>
+## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/vanessamachado93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessamachado93&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessamachado93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vanessa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vanessa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vanessa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vanessa-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
-</div>
+  ## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   
   ##
  
@@ -24,6 +29,8 @@
   ![Snake animation](https://github.com/Vanessamachado93/Vanessamachado93/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  
 
 
 
