@@ -1,5 +1,5 @@
 
-<section align="center"
+<section align="center">
 
 ## Olá.. eu sou a  <strong>Vanessa Machado</strong>😎,</br>
 Estou estudando Desenvolvimento Web 📚</br>
@@ -18,7 +18,6 @@ para trabalhar como desenvolvedora frontend💻👩‍💻,</br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   
-  ##
  ## ⚙️ &nbsp;GitHub Analytics
 <div align="#">
   <a href="https://github.com/vanessamachado93">
