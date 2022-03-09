@@ -3,7 +3,7 @@
 
 ## Olá.. eu sou a  <strong>Vanessa Machado</strong>😎,</br>
 Estou estudando Desenvolvimento Web 📚</br>
-e estou em busca de um emprego na area tech💻👩‍💻.</br>
+quero migrar para a area tech💻👩‍💻.</br>
 
 
   
