@@ -3,7 +3,7 @@
 
 ## Olá.. eu sou a  <strong>Vanessa Machado</strong>😎,</br>
 Estou estudando Desenvolvimento Web 📚</br>
-para trabalhar como desenvolvedora frontend💻👩‍💻,</br>
+e estou em busca de um emprego na area tech💻👩‍💻.</br>
 
 
   
