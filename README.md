@@ -4,6 +4,7 @@
 ## Olá.. eu sou a  <strong>Vanessa</strong>😎,</br>
 Estou estudando Desenvolvimento Web 📚</br>
 quero migrar para a area tech💻👩‍💻.</br>
+treinadev T8 - CampusCode!
 
 
   
