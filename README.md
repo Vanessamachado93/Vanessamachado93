@@ -38,7 +38,10 @@ quero migrar para a area tech💻👩‍💻.</br>
  
 </div>
     </section>
-  <img src="https://komarev.com/ghpvc/?username=Vanessamachado93&color=blueviolet&label=visitas+no+perfil" alt="Vanessamachado93" />
+  <div align="left">
+      <img src="https://komarev.com/ghpvc/?username=Vanessamachado93&color=blueviolet&label=visitas+no+perfil" alt="Vanessamachado93" /><br>
+      <a href="https://wakatime.com/@e6d331d3-5055-42ee-904a-f00920bd1393"><img src="https://wakatime.com/badge/user/e6d331d3-5055-42ee-904a-f00920bd1393.svg"          alt="Total time coded since Apr 15 2022" /></a>
+  </div>  
 
 
 
