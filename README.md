@@ -38,7 +38,7 @@ quero migrar para a area tech💻👩‍💻.</br>
  
 </div>
     </section>
-  
+  <img src="https://komarev.com/ghpvc/?username=Vanessamachado93&color=blueviolet&label=visitas+no+perfil" alt="Vanessamachado93" />
 
 
 
