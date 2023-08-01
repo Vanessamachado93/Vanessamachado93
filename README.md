@@ -1,5 +1,6 @@
 # 💫 About Me:
-Cursando Análise e Desenvolvimento de Sistemas<br>Formada em Administração de Empresas<br>Pós em Gestão Financeira
+Cursando Análise e Desenvolvimento de Sistemas<br>Formada em Administração de Empresas<br>Pós em Gestão Financeira<br>
+👀 Estou interessada em uma oportunidade de Estágio ou Trainee, em área de Dados ou Backend.
 
 
 ## 🌐 Socials:
